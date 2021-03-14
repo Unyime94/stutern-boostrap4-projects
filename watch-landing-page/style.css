@@ -1,0 +1,19 @@
+body {
+    background: url(./images/pocketwatch2.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.hero {
+    color: #fff;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 75px;
+    line-height: 1.2em;
+    letter-spacing: -0.05em;
+    font-family: "Revalia", cursive;
+}
+
+.ima {
+    height: 100px;
+    width: 200px;
+}
